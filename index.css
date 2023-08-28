@@ -1,0 +1,34 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+/* <!-- -----------------------nav section start---------------- --> */
+a{
+    text-decoration: none;
+}
+.nav-btn{
+    border-radius: 5px;
+    list-style: none;
+    padding: 10px;
+    background-color: #E55473;
+    margin: 10px;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+nav>ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+.all-btn{
+    display: flex;
+}
+
+
+.btn-primary{
+  background-color: #111010;
+  color: #E55473;
+  
+}
+
+/* <!-- -------------------nav section end--------------------- --> */
