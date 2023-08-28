@@ -203,3 +203,35 @@ font-weight: 700px;
     margin-left: 40%;
     
 }
+
+/* <!-- ------------------hot deal section end----------- --> */
+
+
+
+<!-- ---------------------------social section start---------------- -->
+
+
+.social-title{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.social-blog{
+    font-size: 18px;
+    font-weight: 400px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+
+.social-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+/* <!-- -------------------------------------social section end----------- --> */
+
