@@ -54,3 +54,81 @@ font-weight: 700px;
     font-size: 18px;
     font-weight: 400px;
 }
+/* <!-- -----------header section end----------- --> */
+
+/* <!-- ------------main body part start------------------ --> */
+.main-part{
+    width: 80%;
+    margin: auto;
+}
+
+
+/* <!-- ----------------flower section start--------------- --> */
+
+.body-heading{
+    margin-top: 178px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700px;
+    color: #272727;
+}
+
+
+
+.body-blog{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400px;
+    text-align: center;
+
+
+}
+.image-part{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.container-text{
+    
+    font-size: 24px;
+    color: #272727;
+    font-weight: 700px;
+    text-align: center;
+    
+}
+
+
+.container{
+    height: 538px;
+    width: 464px;
+    background-color: rgba(167, 33, 98, 0.15);
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+.container2{
+    height: 538px;
+    width: 464px;
+    background-color: rgba(5, 151, 160, 0.15);
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    margin: 0px 24px;
+}
+.container3{
+    height: 538px;
+    width: 464px;
+    background-color: rgba(167, 33, 98, 0.15);
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+
+}
+
+.body-image>img{
+    margin-top: 36%;
+    width: 370px;
+    height: 370px;
+}
+
+
+/* <!-- ----------------flower section end--------------- --> */
