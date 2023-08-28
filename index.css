@@ -132,3 +132,26 @@ font-weight: 700px;
 
 
 /* <!-- ----------------flower section end--------------- --> */
+
+
+.servis{
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    background-color: rgba(39, 39, 39, 0.05);
+    height: 320px;
+    margin: 128px 0px;
+}
+
+
+.servis-icon{
+    width: 88px;
+    height: 88px;
+    margin: auto;
+}
+
+.servis-container>h6{
+    font-size: 24px;
+    font-weight: 600px;
+    color: rgba(39, 39, 39, 0.80);
+}
