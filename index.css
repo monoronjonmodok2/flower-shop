@@ -20,7 +20,12 @@ a{
     margin: 10px;
     font-size: 25px;
     font-weight: bold;
+    border: none;
 
+}
+
+.btn-primary:hover{
+background-color: #aa4b5f
 }
 
 .nav-btn{
